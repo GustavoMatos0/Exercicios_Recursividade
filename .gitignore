@@ -1,0 +1,8 @@
+
+*.xml
+Recursao/build/classes/.netbeans_automatic_build
+Recursao/build/classes/.netbeans_update_resources
+Recursao/manifest.mf
+Recursao/nbproject/genfiles.properties
+Recursao/nbproject/private/private.properties
+Recursao/nbproject/project.properties
